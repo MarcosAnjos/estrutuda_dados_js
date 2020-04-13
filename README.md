@@ -1,3 +1,5 @@
+! [] (img/radio-host.png)
+
 # Estrutura de Dados :game_die: em Javascript ⌨
 
 ## Desafio Quarentana Covid-19
