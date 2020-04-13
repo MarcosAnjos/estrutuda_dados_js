@@ -1,2 +1,1 @@
-# estrutuda_dados_js
-ED na melhor linguagem ... #querentena 
+# Estrutura de Dados :game_die: em Javascript ⌨
