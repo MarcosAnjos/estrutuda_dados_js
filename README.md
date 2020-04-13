@@ -1,10 +1,13 @@
-! [] (img/radio-host.png)
+<p align = "center">
+<img src="img/radio-host.png" width=300>
+</p>
 
 # Estrutura de Dados :game_die: em Javascript ⌨
 
 ## Desafio Quarentana Covid-19
+***********
 
-* Array
+* [Array](#array)
 * Pilha
 * Fila
 * Lista Ligada
@@ -23,3 +26,7 @@
   * Merge sort
   * Quick sort
  
+************
+<div id='array'/> 
+
+## O que array?
