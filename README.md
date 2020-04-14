@@ -37,26 +37,28 @@ Por exemplo
 
 ### Usando no JS
 
-Declarando um novo array - forma literal
+Declarando um novo array - forma literal </br>
 `var arr = []`
 
-Declarando um novo array - construtor embutido
+Declarando um novo array - construtor embutido</br>
 `var arr = new Array()`
 
-Localizando e acessando um elemento
+Localizando e acessando um elemento</br>
 `console.log(arr[0])  // 1`
 
-Add novo elemento
+Add novo elemento</br>
 `arr.push(3)  //[1,2,3]`
 
-Add novo elemento posicao antes
+Add novo elemento posicao antes</br>
 `arr.unshift(3)  //[3,1,2,3]`
 
-Removendo elemento
+Removendo elemento </br>
 `.pop()    //remove útimo elemento`
 
 `.shift()     //remove e retorna o primeiro elemento`
+</br>
 
+***************
 
 
 
